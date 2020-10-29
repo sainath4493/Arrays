@@ -1,5 +1,9 @@
 package ds;
 
+/*
+ * Time Complexity: O(log n).
+ * Binary Search requires log n comparisons to find the element. So time complexity is O(log n).
+ * */
 public class SearchInSortedRotatedArray {
 
 	public static void main(String[] args) {
